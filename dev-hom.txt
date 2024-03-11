@@ -1,0 +1,100 @@
+arch#n#1 arch#n#3 arch#n#4 | arch#n#2
+band#n#1 band#n#2 band#n#5 | band#n#10 band#n#11 band#n#12 band#n#13 band#n#3 band#n#4 band#n#6 band#n#7 band#n#8 band#n#9
+bank#v#1 bank#v#2 bank#v#7 | bank#v#3 bank#v#4 bank#v#5 bank#v#6 bank#v#8
+bar#n#1 bar#n#10 bar#n#11 bar#n#13 bar#n#14 bar#n#15 bar#n#2 bar#n#3 bar#n#4 bar#n#5 bar#n#6 bar#n#8 bar#n#9 | bar#n#7
+barrow#n#1 barrow#n#3 | barrow#n#2
+bath#n#1 bath#n#2 bath#n#3 bath#n#6 | bath#n#4
+batter#n#1 | batter#n#2
+beaver#n#1 beaver#n#4 beaver#n#6 beaver#n#7 | beaver#n#3 | beaver#n#5
+beetle#v#1 beetle#v#3 | beetle#v#2
+bill#n#1 bill#n#2 bill#n#4 bill#n#5 bill#n#6 bill#n#7 | bill#n#10 bill#n#9 | bill#n#8
+bit#n#1 bit#n#10 bit#n#2 bit#n#3 bit#n#4 bit#n#7 bit#n#8 bit#n#9 | bit#n#11 bit#n#5 | bit#n#6
+bob#v#1 bob#v#4 | bob#v#2 bob#v#3 bob#v#5
+boil#n#1 | boil#n#2
+bolt#r#1 | bolt#r#2
+bound#n#1 bound#n#2 bound#n#3 | bound#n#4
+bray#v#1 bray#v#3 | bray#v#2
+bull#n#1 bull#n#11 bull#n#4 bull#n#5 bull#n#6 bull#n#9 | bull#n#10
+check#v#1 check#v#10 check#v#11 check#v#12 check#v#13 check#v#14 check#v#15 check#v#17 check#v#18 check#v#2 check#v#20 check#v#21 check#v#22 check#v#23 check#v#24 check#v#25 check#v#3 check#v#4 check#v#5 check#v#6 check#v#7 check#v#8 check#v#9 | check#v#16 check#v#19
+chit#n#1 | chit#n#2
+chord#n#1 | chord#n#2
+close#v#1 close#v#10 close#v#11 close#v#13 close#v#14 close#v#16 close#v#2 close#v#3 close#v#4 close#v#5 close#v#6 close#v#7 close#v#9 | close#v#12 close#v#15 close#v#17 close#v#8
+club#n#1 club#n#2 club#n#4 club#n#7 | club#n#3 club#n#5 club#n#6
+con#n#1 | con#n#2 | con#n#3
+copper#n#2 copper#n#4 copper#n#5 | copper#n#3
+corn#v#1 | corn#v#2
+counter#n#1 counter#n#2 counter#n#3 counter#n#4 counter#n#5 counter#n#7 | counter#n#6 counter#n#9 | counter#n#8
+crow#n#1 crow#n#5 | crow#n#2
+cuff#v#1 | cuff#v#2
+date#n#1 date#n#2 date#n#3 date#n#4 date#n#5 date#n#6 date#n#7 | date#n#8
+deal#n#1 deal#n#2 deal#n#3 deal#n#6 deal#n#7 deal#n#8 deal#n#9 | deal#n#4 deal#n#5
+diet#n#1 diet#n#3 diet#n#4 | diet#n#2
+do#n#1 | do#n#2
+down#n#1 down#n#5 | down#n#2 | down#n#4
+dredge#v#1 | dredge#v#2 dredge#v#3
+excise#v#1 excise#v#3 | excise#v#2
+gig#n#1 gig#n#4 gig#n#5 | gig#n#2 gig#n#3 | gig#n#6
+grate#n#1 grate#n#3 | grate#n#2
+graze#v#1 graze#v#3 graze#v#5 | graze#v#2 graze#v#4
+gull#n#1 | gull#n#2
+gum#n#1 gum#n#3 gum#n#4 gum#n#5 gum#n#6 | gum#n#2
+gum#v#1 gum#v#3 gum#v#4 | gum#v#2
+hack#n#1 hack#n#2 hack#n#3 hack#n#5 hack#n#6 hack#n#7 hack#n#8 | hack#n#4
+hatch#v#1 hatch#v#2 hatch#v#5 | hatch#v#3 hatch#v#4
+hopper#n#1 hopper#n#2 hopper#n#4 hopper#n#5 | hopper#n#3
+jet#n#1 jet#n#2 jet#n#4 jet#n#6 | jet#n#3
+lake#n#1 | lake#n#2 lake#n#3
+lap#n#1 lap#n#3 | lap#n#2 lap#n#4 lap#n#5 | lap#n#6
+lap#v#1 lap#v#2 lap#v#4 | lap#v#3 lap#v#5
+leave#n#1 leave#n#3 | leave#n#2
+march#v#1 march#v#2 march#v#3 march#v#4 march#v#5 march#v#6 | march#v#7
+mat#n#1 mat#n#2 mat#n#3 mat#n#4 mat#n#7 | mat#n#6
+mate#n#1 mate#n#2 mate#n#3 mate#n#4 mate#n#5 mate#n#6 mate#n#8 mate#n#9 | mate#n#10
+meal#n#1 meal#n#2 | meal#n#3
+mean#a#1 | mean#a#2 mean#a#3 mean#a#4 mean#a#5 mean#a#6 mean#a#7 mean#a#8
+mole#n#1 | mole#n#2 mole#n#6 | mole#n#3 | mole#n#4 | mole#n#5
+mould#n#1 | mould#n#2 mould#n#5 mould#n#6 mould#n#7 mould#n#8 | mould#n#3 mould#n#4
+paddle#v#1 paddle#v#2 paddle#v#3 paddle#v#5 paddle#v#6 | paddle#v#4
+page#n#1 | page#n#4 page#n#5 page#n#6
+palm#n#1 palm#n#2 | palm#n#3 palm#n#4
+pawn#n#1 pawn#n#4 | pawn#n#2 pawn#n#3
+perch#n#1 perch#n#4 | perch#n#2 perch#n#3 | perch#n#5 perch#n#6 perch#n#7
+periwinkle#n#1 periwinkle#n#3 | periwinkle#n#4
+phone#n#1 phone#n#3 | phone#n#2
+pile#n#1 pile#n#2 pile#n#3 pile#n#5 pile#n#8 | pile#n#4 pile#n#7 | pile#n#6
+pink#v#1 pink#v#2 | pink#v#3
+plane#n#1 | plane#n#2 plane#n#3 | plane#n#4 plane#n#5
+plane#v#1 plane#v#3 | plane#v#2
+poke#n#2 poke#n#5 | poke#n#3 | poke#n#4
+policy#n#1 policy#n#2 | policy#n#3
+porter#n#1 porter#n#7 | porter#n#2
+pose#v#1 pose#v#2 pose#v#3 pose#v#4 pose#v#5 | pose#v#6
+punt#n#2 | punt#n#3
+quarrel#n#1 | quarrel#n#2
+rail#n#1 rail#n#2 rail#n#3 rail#n#4 | rail#n#5
+rare#a#1 rare#a#2 rare#a#3 rare#a#4 rare#a#5 | rare#a#6
+riddle#v#1 riddle#v#3 riddle#v#4 riddle#v#5 | riddle#v#2 riddle#v#6
+rig#n#1 rig#n#2 rig#n#3 rig#n#4 rig#n#5 rig#n#6 | rig#n#7
+ring#n#1 ring#n#6 | ring#n#2 ring#n#3 ring#n#4 ring#n#5 ring#n#7 ring#n#8 ring#n#9
+roan#n#1 | roan#n#2
+rock#n#1 rock#n#2 rock#n#4 rock#n#5 | rock#n#6 rock#n#7
+rue#n#2 rue#n#4 | rue#n#3
+school#n#1 school#n#2 school#n#3 school#n#4 school#n#5 school#n#6 | school#n#7
+scotch#v#1 | scotch#v#2
+scour#v#1 | scour#v#2 scour#v#3 scour#v#4
+scrap#n#1 scrap#n#2 scrap#n#3 | scrap#n#4
+seal#v#1 seal#v#2 seal#v#3 seal#v#4 seal#v#5 | seal#v#6
+shingle#n#1 shingle#n#3 | shingle#n#2
+shock#n#1 shock#n#10 shock#n#2 shock#n#3 shock#n#4 shock#n#5 shock#n#6 shock#n#9 | shock#n#7 | shock#n#8
+skate#n#1 | skate#n#2
+slug#n#1 slug#n#4 slug#n#5 slug#n#6 slug#n#7 | slug#n#2 | slug#n#3 slug#n#8
+sod#n#1 | sod#n#3 sod#n#4
+soil#n#1 | soil#n#2 soil#n#3 soil#n#4
+story#n#1 story#n#2 story#n#4 story#n#5 story#n#6 | story#n#3
+stud#n#1 stud#n#4 stud#n#5 | stud#n#2 stud#n#3
+talus#n#1 | talus#n#2
+tick#n#1 tick#n#3 | tick#n#2 | tick#n#4
+toll#n#1 toll#n#2 | toll#n#3
+vamp#v#1 vamp#v#3 | vamp#v#2 vamp#v#4
+wind#v#1 wind#v#2 wind#v#3 wind#v#5 wind#v#7 | wind#v#4 wind#v#6
+yard#n#1 yard#n#5 yard#n#8 | yard#n#2 yard#n#3 yard#n#6 yard#n#7 yard#n#9

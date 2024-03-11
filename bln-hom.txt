@@ -1,0 +1,100 @@
+affect#v#1 affect#v#2 affect#v#3 affect#v#5 | affect#v#4
+angle#v#1 angle#v#2 angle#v#5 | angle#v#3 angle#v#4
+arm#n#1 arm#n#2 arm#n#4 arm#n#5 arm#n#6 | arm#n#3
+bark#n#1 | bark#n#2 bark#n#4 | bark#n#3
+bark#v#1 bark#v#4 | bark#v#2 bark#v#3 bark#v#5
+bat#v#1 bat#v#3 bat#v#4 | bat#v#2 bat#v#5
+blow#n#1 blow#n#2 blow#n#3 blow#n#4 | blow#n#5 blow#n#7
+bluff#a#1 | bluff#a#2
+bluff#n#1 | bluff#n#2 bluff#n#3
+bolt#v#1 bolt#v#3 bolt#v#4 bolt#v#5 bolt#v#6 bolt#v#7 | bolt#v#2
+bow#n#1 bow#n#2 bow#n#4 bow#n#5 bow#n#7 bow#n#8 bow#n#9 | bow#n#3 | bow#n#6
+box#n#1 box#n#2 box#n#3 box#n#4 box#n#5 box#n#7 box#n#8 box#n#9 | box#n#10 | box#n#6
+buff#n#1 buff#n#3 | buff#n#2 buff#n#4 buff#n#5
+bunt#n#1 | bunt#n#2
+butt#n#1 butt#n#2 butt#n#4 butt#n#6 butt#n#7 butt#n#9 | butt#n#3 butt#n#5 | butt#n#8
+calf#n#1 calf#n#3 calf#n#4 | calf#n#2
+canon#n#1 canon#n#3 canon#n#4 canon#n#6 | canon#n#2 canon#n#5
+cant#n#1 cant#n#3 cant#n#4 | cant#n#2 cant#n#5
+cast#n#1 | cast#n#2 cast#n#3 cast#n#4 cast#n#5 cast#n#6 cast#n#7 cast#n#8 cast#n#9
+chap#n#1 | chap#n#2 chap#n#3 chap#n#4
+coma#n#1 | coma#n#2 coma#n#3
+compact#n#1 compact#n#3 | compact#n#2
+compound#n#1 compound#n#2 | compound#n#3
+corn#n#2 corn#n#3 corn#n#5 corn#n#6 corn#n#7 | corn#n#4
+crank#n#1 crank#n#2 | crank#n#4
+cricket#n#1 | cricket#n#2
+croup#n#1 | croup#n#2
+dam#n#1 dam#n#2 | dam#n#3
+deuce#n#1 deuce#n#4 | deuce#n#3
+fag#n#1 | fag#n#2
+fawn#v#1 fawn#v#2 | fawn#v#3
+fluke#n#1 | fluke#n#2 fluke#n#3 fluke#n#4 fluke#n#5
+flush#a#1 | flush#a#2
+fold#n#1 fold#n#3 fold#n#5 fold#n#7 | fold#n#2 fold#n#4 fold#n#6
+forte#n#1 forte#n#3 | forte#n#2
+frog#n#1 | frog#n#3
+fuzz#n#1 fuzz#n#3 fuzz#n#4 | fuzz#n#2
+game#a#1 | game#a#2
+gloss#n#1 gloss#n#2 | gloss#n#3 gloss#n#4
+gobble#v#1 | gobble#v#2
+gore#n#2 gore#n#4 | gore#n#3
+hawk#n#1 hawk#n#2 | hawk#n#3
+heel#n#1 heel#n#2 heel#n#3 heel#n#4 heel#n#6 | heel#n#5
+hip#n#1 hip#n#2 hip#n#3 hip#n#4 | hip#n#5
+hob#n#1 hob#n#2 | hob#n#3 hob#n#4
+hop#n#1 hop#n#3 | hop#n#2
+incense#v#1 | incense#v#2
+jade#n#1 jade#n#3 | jade#n#2 jade#n#4
+kitty#n#1 kitty#n#2 kitty#n#4 | kitty#n#3
+lag#v#1 lag#v#3 lag#v#4 | lag#v#2
+lark#n#1 lark#n#2 lark#n#3 | lark#n#4
+light#v#1 light#v#2 light#v#4 | light#v#3 light#v#5 light#v#6
+lug#n#2 lug#n#3 | lug#n#4
+march#n#2 march#n#3 march#n#4 march#n#6 | march#n#5
+maroon#n#1 maroon#n#3 | maroon#n#2
+match#n#1 match#n#3 match#n#4 | match#n#2 match#n#5 match#n#6 match#n#7 match#n#8 match#n#9
+mint#n#1 mint#n#6 | mint#n#2 mint#n#3 mint#n#4 mint#n#5
+miss#n#1 | miss#n#2
+mount#n#1 mount#n#2 mount#n#5 | mount#n#3 mount#n#4
+must#n#1 | must#n#2 | must#n#3
+pack#v#1 pack#v#10 pack#v#11 pack#v#12 pack#v#13 pack#v#2 pack#v#3 pack#v#4 pack#v#6 pack#v#7 pack#v#8 pack#v#9 | pack#v#5
+pap#n#1 pap#n#2 | pap#n#3
+pass#n#1 pass#n#10 pass#n#11 pass#n#12 pass#n#13 pass#n#14 pass#n#15 pass#n#16 pass#n#2 pass#n#3 pass#n#5 pass#n#6 pass#n#7 pass#n#8 pass#n#9 | pass#n#4
+pen#n#1 | pen#n#2 pen#n#3 | pen#n#4 | pen#n#5
+pet#n#1 pet#n#2 | pet#n#3
+pinion#n#1 | pinion#n#2 pinion#n#3
+port#v#1 port#v#2 port#v#3 port#v#4 port#v#5 port#v#6 port#v#7 | port#v#8
+post#n#1 post#n#2 post#n#3 | post#n#10 post#n#11 post#n#8 | post#n#4 post#n#9
+pound#n#1 pound#n#10 pound#n#12 pound#n#3 | pound#n#13 pound#n#14
+pound#v#1 pound#v#2 pound#v#3 pound#v#4 pound#v#5 pound#v#7 pound#v#8 | pound#v#6
+pro#n#1 | pro#n#2
+pupil#n#1 pupil#n#3 | pupil#n#2
+purl#v#1 purl#v#2 purl#v#4 purl#v#5 | purl#v#3
+quack#n#1 | quack#n#2
+quiver#n#1 quiver#n#2 | quiver#n#3 quiver#n#4
+real#n#1 real#n#3 | real#n#2
+row#n#1 row#n#3 row#n#4 row#n#5 row#n#6 | row#n#2 | row#n#7
+ruck#n#1 | ruck#n#2
+ruff#n#1 ruff#n#2 | ruff#n#4
+rummy#n#1 | rummy#n#2
+sake#n#1 sake#n#3 | sake#n#2
+school#v#1 school#v#2 | school#v#3
+seal#n#1 seal#n#2 seal#n#5 seal#n#6 seal#n#7 seal#n#8 | seal#n#3 seal#n#9
+share#n#1 share#n#2 share#n#3 share#n#4 | share#n#5
+shore#n#1 | shore#n#2
+slough#n#1 slough#n#2 slough#n#4 | slough#n#3
+smack#n#1 smack#n#5 smack#n#6 | smack#n#2 | smack#n#3 | smack#n#4
+sole#n#1 sole#n#2 sole#n#3 | sole#n#4
+sound#n#1 sound#n#2 sound#n#3 sound#n#4 sound#n#5 sound#n#6 | sound#n#7 sound#n#8
+sound#v#1 sound#v#2 sound#v#3 sound#v#4 sound#v#5 sound#v#6 | sound#v#7
+spar#n#1 | spar#n#2 | spar#n#3
+spell#n#1 spell#n#4 | spell#n#2 spell#n#3
+spell#v#1 spell#v#2 spell#v#3 | spell#v#4 spell#v#5 spell#v#6
+squash#n#1 squash#n#2 | squash#n#3
+stoop#n#1 stoop#n#2 | stoop#n#3
+strip#n#1 strip#n#2 strip#n#3 strip#n#4 strip#n#5 | strip#n#6
+tip#v#1 tip#v#4 tip#v#5 tip#v#8 | tip#v#2 tip#v#6 tip#v#7 tip#v#9 | tip#v#3
+toll#v#1 | toll#v#2
+vault#n#1 vault#n#2 vault#n#3 | vault#n#4
+wind#n#1 wind#n#2 wind#n#3 wind#n#4 wind#n#5 wind#n#6 wind#n#7 | wind#n#8

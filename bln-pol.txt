@@ -1,0 +1,100 @@
+abandon#v#1 abandon#v#2 abandon#v#3 abandon#v#4 abandon#v#5
+accrue#v#1 accrue#v#2
+acquisition#n#1 acquisition#n#2 acquisition#n#3 acquisition#n#4
+affliction#n#1 affliction#n#2 affliction#n#3
+aggravate#v#1 aggravate#v#2
+agitation#n#1 agitation#n#2 agitation#n#3 agitation#n#4 agitation#n#5
+aid#v#1 aid#v#2
+animalize#v#1 animalize#v#2 animalize#v#3
+assassination#n#1 assassination#n#2
+assume#v#1 assume#v#2 assume#v#3 assume#v#4 assume#v#5 assume#v#6 assume#v#7 assume#v#8 assume#v#9
+boggle#v#1 boggle#v#2 boggle#v#3
+boost#v#1 boost#v#2 boost#v#3 boost#v#4 boost#v#5
+brand#n#1 brand#n#2 brand#n#3 brand#n#4 brand#n#5 brand#n#6
+broadcast#v#1 broadcast#v#2 broadcast#v#3
+browse#v#1 browse#v#2 browse#v#3 browse#v#4
+campaign#v#1 campaign#v#2 campaign#v#3
+carnivore#n#1 carnivore#n#2
+cling#v#1 cling#v#2 cling#v#3
+conclude#v#1 conclude#v#2 conclude#v#3 conclude#v#4 conclude#v#5
+constrain#v#1 constrain#v#2
+crawl#v#1 crawl#v#2 crawl#v#3 crawl#v#4 crawl#v#5
+creep#v#1 creep#v#2 creep#v#3 creep#v#4
+defend#v#1 defend#v#2 defend#v#3 defend#v#4 defend#v#5 defend#v#6 defend#v#7
+defiance#n#1 defiance#n#2 defiance#n#3
+devise#v#1 devise#v#2 devise#v#3
+discussion#n#1 discussion#n#2
+embellish#v#1 embellish#v#2 embellish#v#3 embellish#v#4
+envision#v#1 envision#v#2
+erect#v#1 erect#v#2
+error#n#1 error#n#2 error#n#3 error#n#4 error#n#5 error#n#6 error#n#7
+evaluation#n#1 evaluation#n#2
+expect#v#1 expect#v#2 expect#v#3 expect#v#4 expect#v#5 expect#v#6
+experiment#v#1 experiment#v#2
+fear#v#1 fear#v#2 fear#v#3 fear#v#4 fear#v#5
+ferry#v#1 ferry#v#2 ferry#v#3
+flatten#v#1 flatten#v#2 flatten#v#3
+fortify#v#1 fortify#v#2 fortify#v#3 fortify#v#4 fortify#v#5
+frontier#n#1 frontier#n#2 frontier#n#3
+fructify#v#1 fructify#v#2 fructify#v#3
+fund#v#1 fund#v#2 fund#v#3 fund#v#4 fund#v#5 fund#v#6
+gallop#v#1 gallop#v#2 gallop#v#3
+give#v#1 give#v#10 give#v#11 give#v#12 give#v#13 give#v#14 give#v#15 give#v#16 give#v#17 give#v#18 give#v#19 give#v#2 give#v#20 give#v#21 give#v#22 give#v#23 give#v#24 give#v#25 give#v#26 give#v#27 give#v#28 give#v#29 give#v#3 give#v#30 give#v#31 give#v#32 give#v#33 give#v#34 give#v#35 give#v#36 give#v#37 give#v#38 give#v#39 give#v#4 give#v#40 give#v#41 give#v#42 give#v#43 give#v#44 give#v#5 give#v#6 give#v#7 give#v#8 give#v#9
+grow#v#1 grow#v#10 grow#v#2 grow#v#3 grow#v#4 grow#v#5 grow#v#6 grow#v#7 grow#v#8 grow#v#9
+hall#n#1 hall#n#11 hall#n#12 hall#n#13 hall#n#2 hall#n#3 hall#n#4 hall#n#5
+harass#v#1 harass#v#2
+immobilize#v#1 immobilize#v#2 immobilize#v#3 immobilize#v#4 immobilize#v#5 immobilize#v#6
+imply#v#1 imply#v#2 imply#v#3 imply#v#4 imply#v#5
+inform#v#1 inform#v#2 inform#v#3
+inquiry#n#1 inquiry#n#2 inquiry#n#3
+insurance#n#1 insurance#n#2 insurance#n#3
+intensify#v#1 intensify#v#2 intensify#v#3 intensify#v#4
+interpretation#n#1 interpretation#n#2 interpretation#n#3 interpretation#n#4
+kiss#v#1 kiss#v#2
+mention#v#1 mention#v#2 mention#v#3
+minimize#v#1 minimize#v#2 minimize#v#3
+mistake#n#1 mistake#n#2 mistake#n#3
+norm#n#1 norm#n#2
+nuzzle#v#1 nuzzle#v#2 nuzzle#v#3
+operator#n#1 operator#n#2 operator#n#3 operator#n#4 operator#n#5
+overcome#v#1 overcome#v#2 overcome#v#3 overcome#v#4
+palpitate#v#1 palpitate#v#2 palpitate#v#3
+partner#v#1 partner#v#2
+perform#v#1 perform#v#2 perform#v#3 perform#v#4
+peril#n#1 peril#n#2 peril#n#3
+photograph#v#1 photograph#v#2
+piggyback#v#1 piggyback#v#2 piggyback#v#3 piggyback#v#4 piggyback#v#5
+pleasure#n#1 pleasure#n#2 pleasure#n#3 pleasure#n#4 pleasure#n#5
+pledge#v#1 pledge#v#2 pledge#v#3 pledge#v#4 pledge#v#5
+pour#v#1 pour#v#2 pour#v#3 pour#v#4 pour#v#5 pour#v#6
+profess#v#1 profess#v#2 profess#v#3 profess#v#4 profess#v#5 profess#v#6 profess#v#7
+pull#n#1 pull#n#2 pull#n#3 pull#n#4 pull#n#5 pull#n#6 pull#n#7
+recommit#v#1 recommit#v#2 recommit#v#3
+reference#n#1 reference#n#10 reference#n#2 reference#n#3 reference#n#4 reference#n#5 reference#n#6 reference#n#7 reference#n#8 reference#n#9
+revelation#n#1 revelation#n#2 revelation#n#3
+revolve#v#1 revolve#v#2 revolve#v#3
+ride#n#1 ride#n#2
+risk#v#1 risk#v#2
+rot#v#1 rot#v#2
+sag#v#1 sag#v#2
+sail#v#1 sail#v#2 sail#v#3 sail#v#4
+secure#v#1 secure#v#2 secure#v#3 secure#v#4 secure#v#5 secure#v#6
+sequester#v#1 sequester#v#2 sequester#v#3 sequester#v#4 sequester#v#5
+sever#v#1 sever#v#2
+slang#v#1 slang#v#2 slang#v#3
+snip#v#1 snip#v#2
+stare#v#1 stare#v#2
+struggle#v#1 struggle#v#2 struggle#v#3 struggle#v#4
+stumble#v#1 stumble#v#2 stumble#v#3 stumble#v#4
+swag#v#1 swag#v#2 swag#v#3
+symbol#n#1 symbol#n#2
+talk#v#1 talk#v#2 talk#v#3 talk#v#4 talk#v#5 talk#v#6
+telephone#n#1 telephone#n#2
+tout#v#1 tout#v#2
+travel#n#1 travel#n#2 travel#n#3
+tube#n#1 tube#n#2 tube#n#3 tube#n#4 tube#n#5
+unify#v#1 unify#v#2 unify#v#3 unify#v#4 unify#v#5
+venture#v#1 venture#v#2 venture#v#3
+whiff#v#1 whiff#v#2 whiff#v#3 whiff#v#4 whiff#v#5
+win#v#1 win#v#2 win#v#3 win#v#4
+worship#v#1 worship#v#2 worship#v#3

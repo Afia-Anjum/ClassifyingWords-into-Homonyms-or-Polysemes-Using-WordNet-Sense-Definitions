@@ -1,0 +1,100 @@
+abduct#v#1 abduct#v#2
+accumulation#n#1 accumulation#n#2 accumulation#n#3 accumulation#n#4
+administration#n#1 administration#n#2 administration#n#3 administration#n#4 administration#n#5 administration#n#6
+adorn#v#1 adorn#v#2 adorn#v#3
+afford#v#1 afford#v#2 afford#v#3 afford#v#4
+arouse#v#1 arouse#v#2 arouse#v#3 arouse#v#4 arouse#v#5 arouse#v#6 arouse#v#7
+artillery#n#1 artillery#n#2 artillery#n#3
+bargain#n#1 bargain#n#2
+bewitch#v#1 bewitch#v#2 bewitch#v#3
+blink#v#1 blink#v#2 blink#v#3
+breakthrough#n#1 breakthrough#n#2 breakthrough#n#3
+calendar#n#1 calendar#n#2 calendar#n#3
+capture#n#1 capture#n#2 capture#n#3 capture#n#4 capture#n#5
+censor#v#1 censor#v#2
+concur#v#1 concur#v#2
+contaminate#v#1 contaminate#v#2
+contemplate#v#1 contemplate#v#2 contemplate#v#3 contemplate#v#4
+contend#v#1 contend#v#2 contend#v#3 contend#v#4 contend#v#5 contend#v#6
+crave#v#1 crave#v#2
+cruise#v#1 cruise#v#2 cruise#v#3 cruise#v#4
+depend#v#1 depend#v#2
+derange#v#1 derange#v#2
+discredit#v#1 discredit#v#2 discredit#v#3
+disguise#n#1 disguise#n#2 disguise#n#3
+dismissal#n#1 dismissal#n#2 dismissal#n#3 dismissal#n#4
+disregard#v#1 disregard#v#2 disregard#v#3
+disturbance#n#1 disturbance#n#2 disturbance#n#3 disturbance#n#4 disturbance#n#5 disturbance#n#6 disturbance#n#7
+dominate#v#1 dominate#v#2 dominate#v#3 dominate#v#4 dominate#v#5
+enchant#v#1 enchant#v#2 enchant#v#3
+encounter#n#1 encounter#n#2 encounter#n#3 encounter#n#4
+estate#n#1 estate#n#2 estate#n#3
+etch#v#1 etch#v#2 etch#v#3 etch#v#4 etch#v#5
+evacuate#v#1 evacuate#v#2 evacuate#v#3 evacuate#v#4 evacuate#v#5
+extent#n#1 extent#n#2
+flame#v#1 flame#v#2 flame#v#3
+flood#v#1 flood#v#2 flood#v#3 flood#v#4
+framework#n#1 framework#n#2 framework#n#3
+ghost#v#1 ghost#v#2 ghost#v#3
+hesitate#v#1 hesitate#v#2
+holder#n#1 holder#n#2 holder#n#3
+hug#v#1 hug#v#2
+initialize#v#1 initialize#v#2
+insinuate#v#1 insinuate#v#2
+introduce#v#1 introduce#v#10 introduce#v#2 introduce#v#3 introduce#v#4 introduce#v#5 introduce#v#6 introduce#v#7 introduce#v#8 introduce#v#9
+invoke#v#1 invoke#v#2 invoke#v#3
+limit#v#1 limit#v#2 limit#v#3
+listen#v#1 listen#v#2 listen#v#3
+love#n#1 love#n#2 love#n#3 love#n#4 love#n#5 love#n#6
+manufacture#v#1 manufacture#v#2 manufacture#v#3 manufacture#v#4
+monopoly#n#1 monopoly#n#2
+need#v#1 need#v#2 need#v#3
+neutralize#v#1 neutralize#v#2 neutralize#v#3 neutralize#v#4 neutralize#v#5 neutralize#v#6
+nurture#v#1 nurture#v#2 nurture#v#3
+observe#v#1 observe#v#2 observe#v#3 observe#v#4 observe#v#5 observe#v#6 observe#v#7 observe#v#8 observe#v#9
+optimize#v#1 optimize#v#2 optimize#v#3
+ordain#v#1 ordain#v#2 ordain#v#3 ordain#v#4
+osculate#v#1 osculate#v#2 osculate#v#3
+outrage#v#1 outrage#v#2 outrage#v#3
+overshadow#v#1 overshadow#v#2 overshadow#v#3
+persist#v#1 persist#v#2 persist#v#3
+polarity#n#1 polarity#n#2
+pressurize#v#1 pressurize#v#2 pressurize#v#3
+quiet#v#1 quiet#v#2
+ramble#v#1 ramble#v#2
+recoil#v#1 recoil#v#2 recoil#v#3 recoil#v#4
+redo#v#1 redo#v#2
+refer#v#1 refer#v#2 refer#v#3 refer#v#4 refer#v#5 refer#v#6 refer#v#7
+regulator#n#1 regulator#n#2 regulator#n#3
+renew#v#1 renew#v#2
+repay#v#1 repay#v#2 repay#v#3 repay#v#4
+replicate#v#1 replicate#v#2 replicate#v#3
+represent#v#1 represent#v#10 represent#v#11 represent#v#12 represent#v#13 represent#v#14 represent#v#15 represent#v#2 represent#v#3 represent#v#4 represent#v#5 represent#v#6 represent#v#7 represent#v#8 represent#v#9
+reside#v#1 reside#v#2 reside#v#3
+resign#v#1 resign#v#2 resign#v#3 resign#v#4
+rewrite#v#1 rewrite#v#2
+rollback#n#1 rollback#n#2
+sale#n#1 sale#n#2 sale#n#3 sale#n#4 sale#n#5
+selection#n#1 selection#n#2 selection#n#3 selection#n#4 selection#n#5
+separation#n#1 separation#n#2 separation#n#3 separation#n#4 separation#n#5 separation#n#6 separation#n#7 separation#n#8 separation#n#9
+slacken#v#1 slacken#v#2 slacken#v#3 slacken#v#4
+soften#v#1 soften#v#2 soften#v#3 soften#v#4 soften#v#5 soften#v#6 soften#v#7
+spark#n#1 spark#n#2 spark#n#3 spark#n#4 spark#n#6
+specialize#v#1 specialize#v#2 specialize#v#3 specialize#v#4 specialize#v#5
+spend#v#1 spend#v#2 spend#v#3
+stab#v#1 stab#v#2 stab#v#3
+stain#v#1 stain#v#2 stain#v#3 stain#v#4
+stimulation#n#1 stimulation#n#2 stimulation#n#3 stimulation#n#4
+streak#v#1 streak#v#2 streak#v#3
+subdue#v#1 subdue#v#2 subdue#v#3 subdue#v#4 subdue#v#5 subdue#v#6
+subvert#v#1 subvert#v#2 subvert#v#3 subvert#v#4
+suffer#v#1 suffer#v#10 suffer#v#11 suffer#v#2 suffer#v#3 suffer#v#4 suffer#v#5 suffer#v#6 suffer#v#7 suffer#v#8 suffer#v#9
+survive#v#1 survive#v#2 survive#v#3 survive#v#4
+target#n#1 target#n#2 target#n#3 target#n#4 target#n#5
+thought#n#1 thought#n#2 thought#n#3 thought#n#4
+threaten#v#1 threaten#v#2 threaten#v#3
+topple#v#1 topple#v#2
+trauma#n#1 trauma#n#2
+unfold#v#1 unfold#v#2 unfold#v#3 unfold#v#4
+vulnerability#n#1 vulnerability#n#2
+whine#v#1 whine#v#2 whine#v#3 whine#v#4
