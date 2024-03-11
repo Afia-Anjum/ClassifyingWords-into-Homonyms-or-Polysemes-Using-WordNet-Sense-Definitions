@@ -1,6 +1,6 @@
 COMPUTATIONAL SEMANTICS CMPUT 600 Final Project (ClassifyingWords into Homonyms or Polysemes Using WordNet Sense Definitions)
 
-Afia Anjum (ccid: afia)
+Afia Anjum
 
 Please place the file finalproject.py, the balanced homonym and polyseme development and 
 test set into the same folder. To run the BA18 task, put the annotated csv file and crowd 
